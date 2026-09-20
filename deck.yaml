@@ -1,0 +1,17 @@
+title: Rust Programming Basics
+description: Learn the core concepts of the Rust programming language.
+cards:
+  - front: What keyword is used to declare an immutable variable in Rust?
+    back: let
+    hints:
+      - It is three letters long.
+    tags:
+      - variables
+      - basics
+  - front: How do you define a constant in Rust?
+    back: const
+    hints:
+      - It requires explicit type annotation.
+    tags:
+      - constants
+      - basics

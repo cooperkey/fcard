@@ -1,0 +1,19 @@
+# Build artifacts
+target/
+
+# Local user data and caches
+.fcard/
+stats.json
+config.json
+
+# Editor temporary files and swap files
+*.swp
+*.swo
+*~
+*.bak
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
